@@ -1,0 +1,16 @@
+{
+  "name": "flexi-color-picker",
+  "version": "0.1.0",
+  "homepage": "https://github.com/DavidDurman/FlexiColorPicker",
+  "author": "David Durman",
+  "description": "HSV color picker",
+  "main": "colorpicker.js",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "doc.html",
+    "examples",
+    "preview.png",
+    "test"
+  ]
+}
