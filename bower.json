@@ -5,7 +5,7 @@
     "David Durman (original author)",
     "Seth MacPherson (no contribution, just registry)"
   ],
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Flexible Color Picker",
   "main": "colorpicker.js",
   "moduleType": [],
